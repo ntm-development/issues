@@ -10,11 +10,11 @@ Before you report an issue, please consider these simple rules:
 - Keep discussions to the issue at hand, be friendly and constructive
 - They follow Discord ToS, Discord Community Guidelines and our Bot Rules
 
-Now, to file an issue. Select one of the templates below which best describes your issue/report:
+Now, to file an issue. Click this link and select the Type of Report you're going to file:
 
-### 1. [Feedback](https://github.com/ntm-development/issues/issues/new?template=ISSUE_TEMPLATE.md)
+# [Click this to Start a Report](https://github.com/ntm-development/issues/issues/new/choose)
 
-### 2. [Bug/Issue Report](https://github.com/ntm-development/issues/issues/new?template=BUG_TEMPLATE.md)
+
 
 ## Discussing a Report
 
