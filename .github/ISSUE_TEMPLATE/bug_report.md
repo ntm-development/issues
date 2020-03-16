@@ -2,13 +2,13 @@
 name: Bug report
 about: Create a bug report regarding Nate Bot
 title: "[BUG REPORT]"
-labels: API, Bug, Duplicate, Invalid, Nate Bot, Nate Bot Support, Other, Won't Fix/Add
+labels: API Bug, Bot Bug, Database Bug, Website Bug, Staff Bug, Store Bug, Duplicate, Invalid, Nate Bot, Holo, DisBots, Sonic, Hive Tools, Sonic, NTM Development, Other, Ignored, Won't Fix/Add
 assignees: NTMNathan
 
 ---
 
-**Command**
-What is the command name
+**Command/Bug**
+What is the command name and/or the Bug
 
 **Time**
 When did this bug occur?
