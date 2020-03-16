@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a bug report regarding Nate Bot
+about: File a Bug Report for any of our Services.
 title: "[BUG REPORT]"
 labels: API Bug, Bot Bug, Database Bug, Website Bug, Staff Bug, Store Bug, Duplicate, Invalid, Nate Bot, Holo, DisBots, Sonic, Hive Tools, Sonic, NTM Development, Other, Ignored, Won't Fix/Add
 assignees: NTMNathan
