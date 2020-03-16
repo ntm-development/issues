@@ -1,20 +1,20 @@
-<img src="https://i.imgur.com/aSmaGXV.png" width="" height="auto">
+<center><img src="https://i.imgur.com/v471C1j.png" width="auto" height="100px" style="padding: 60px;"></center>
 
-# Nate Bot - Issues and Support
+# NTM Development - Issues and Support
 
-Thank you for reporting any issues you are facing with Nate Bot. By doing that you help us make Nate Bot a better bot and experience!
+Thank you for reporting any issues you are facing with any of our Bots and services. By doing that you help us make NTM Development a better place and experience!
 
 Before you report an issue, please consider these simple rules:
 
 - Your report should be concise and on topic
 - Keep discussions to the issue at hand, be friendly and constructive
-- They follow Discord ToS, Discord Community Guidelines and Nate Bot Rules
+- They follow Discord ToS, Discord Community Guidelines and our Bot Rules
 
 Now, to file an issue. Select one of the templates below which best describes your issue/report:
 
-### 1. [Feedback](https://github.com/nate-bot/issues/issues/new?template=ISSUE_TEMPLATE.md)
+### 1. [Feedback](https://github.com/ntm-development/issues/issues/new?template=ISSUE_TEMPLATE.md)
 
-### 2. [Bug/Issue Report](https://github.com/nate-bot/issues/issues/new?template=BUG_TEMPLATE.md)
+### 2. [Bug/Issue Report](https://github.com/ntm-development/issues/issues/new?template=BUG_TEMPLATE.md)
 
 ## Discussing a Report
 
