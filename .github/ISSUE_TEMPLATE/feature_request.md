@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: "[REQUEST]"
+about: Suggest something for NTM Development
+title: "[FEATURE REQUEST]"
 labels: Documentation, Duplicate, Enhancement, Invalid, Nate Bot, Nate Bot Support,
   Other, Planned, Won't Fix/Add
 assignees: NTMNathan
